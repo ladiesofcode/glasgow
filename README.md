@@ -11,3 +11,9 @@ Our new website is in the process of being developed but for now we're using thi
 ## Previous meetup materials
 
 August 2016 - Launch & Lightning talks 
+November 2016 - Exploring open source speaker series from [Jelmer Snoeck](https://twitter.com/jelmersnoeck) and [Carole Rennie Logan](https://twitter.com/crgrieve)
+
+## Upcoming meetups 
+
+December 2016 - 24 Pull Requests Hack evening 
+January 2017 - Creative Coders speaker series 
