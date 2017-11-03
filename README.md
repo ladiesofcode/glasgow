@@ -1,8 +1,8 @@
-<img align="right" width="250px" src="https://cloud.githubusercontent.com/assets/8995723/12703902/58324a9e-c846-11e5-9f8f-49326881efaf.gif"/>
+<img align="right" width="250px" src="https://cloud.githubusercontent.com/assets/8995723/12703902/58324a9e-c846-11e5-9f8f-49326881efaf.gif">
 
-#Ladies of Code Glasgow
+# Ladies of Code Glasgow
 
-Ladies of Code Glasgow is organised by [Carole](https://twitter.com/crgrieve) and [Angie](https://twitter.com/lalamaguire)
+Ladies of Code Glasgow is organised by [Carole](https://twitter.com/crgrieve) and [Angie](https://twitter.com/lalamaguire).
 
 **To find out when and where our next meetup is, please take a look at [our page on meetup.com](http://www.meetup.com/Ladies-of-Code-Glasgow)**.
 
