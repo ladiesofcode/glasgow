@@ -14,6 +14,8 @@ August 2017 - [Introduction to the Raspberry Pi](https://www.meetup.com/Ladies-o
 
 September 2017 - [Ladies of Code Glasgow: Career Conversations](https://www.meetup.com/Ladies-of-Code-Glasgow/events/243106679) with panellists [Lucy Fang](https://twitter.com/crushoncode), [Carole Logan](https://twitter.com/crgrieve), [Caroline Kirkhope](https://twitter.com/cazkirkhope) and [Cat Hawker](https://twitter.com/auberdjinn).
 
+October 2017 - [Ladies of Code: Introduction to functional programming with Clojure](https://www.meetup.com/Ladies-of-Code-Glasgow/events/243769380).  [Lucy Fang](https://twitter.com/crushoncode)'s [slides](https://www.slideshare.net/LucyFang7/functional-programming-with-clojure-81190087).
+
 ## Upcoming meetups 
 
 We are in the process of planning some upcoming meetups - please [check again soon](http://www.meetup.com/Ladies-of-Code-Glasgow).
