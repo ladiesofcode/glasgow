@@ -10,12 +10,12 @@ Our new website is in the process of being developed but for now we're using thi
 
 ## Previous meetup materials
 
-August 2016 - Launch & Lightning talks 
+August 2017 - [Introduction to the Raspberry Pi](https://www.meetup.com/Ladies-of-Code-Glasgow/events/242405858).
 
-November 2016 - Exploring open source speaker series from [Jelmer Snoeck](https://twitter.com/jelmersnoeck) and [Carole Rennie Logan](https://twitter.com/crgrieve)
+September 2017 - [Ladies of Code Glasgow: Career Conversations](https://www.meetup.com/Ladies-of-Code-Glasgow/events/243106679) with panellists [Lucy Fang](https://twitter.com/crushoncode), [Carole Logan](https://twitter.com/crgrieve), [Caroline Kirkhope](https://twitter.com/cazkirkhope) and [Cat Hawker](https://twitter.com/auberdjinn).
+
+October 2017 - [Ladies of Code: Introduction to functional programming with Clojure](https://www.meetup.com/Ladies-of-Code-Glasgow/events/243769380).  [Lucy Fang](https://twitter.com/crushoncode)'s [slides](https://www.slideshare.net/LucyFang7/functional-programming-with-clojure-81190087).
 
 ## Upcoming meetups 
 
-December 2016 - 24 Pull Requests Hack evening
-
-January 2017 - Creative Coders speaker series 
+We are in the process of planning some upcoming meetups - please [check again soon](http://www.meetup.com/Ladies-of-Code-Glasgow).
