@@ -16,21 +16,16 @@ September 2017 - [Ladies of Code Glasgow: Career Conversations](https://www.meet
 
 October 2017 - [Ladies of Code: Introduction to functional programming with Clojure](https://www.meetup.com/Ladies-of-Code-Glasgow/events/243769380).  [Lucy Fang](https://twitter.com/crushoncode)'s [slides](https://www.slideshare.net/LucyFang7/functional-programming-with-clojure-81190087).
 
-## Upcoming meetups
-
 7th December 2017 - [Ladies of Code Glasgow: Christmas Hacks](https://www.meetup.com/Ladies-of-Code-Glasgow/events/244961346).
 
-Hosted by [Carole Logan](https://twitter.com/crgrieve) from 6.30pm to 9.00pm at the [Sir Alwyn Williams Building](https://www.google.co.uk/maps/place/Sir+Alwyn+Williams+Building,+Glasgow+G12+8QN/@55.8738998,-4.2939227,17z/data=!3m1!4b1!4m5!3m4!1s0x488845ce6c50ce15:0x9891fb78c4c05809!8m2!3d55.8739481!4d-4.2918572), University of Glasgow, 18 Lilybank Gardens, Glasgow G12 8QN.
+23rd January 2018 - [Ladies of Code: Lean Coffee](https://www.meetup.com/Ladies-of-Code-Glasgow/events/246745961/).
 
-We will have a show and tell of some festive code and hardware hacks with a chance to get hands-on experience with these technologies.
+27th February 2018 - [Ladies of Code: Lightning Talks](https://www.meetup.com/Ladies-of-Code-Glasgow/events/247717949/).
 
-Including:
-- Christmas VR
-- Micro: bit
-- Wearables
-- Alexa Skills
-- Raspberry Pi
+27th March 2018 - [Ladies of Code: Getting Started with a CMS](https://www.meetup.com/Ladies-of-Code-Glasgow/events/248611767/).
 
-We will have some Christmas-themed food and drink so come along and celebrate what has been a fab year for Ladies of Code Glasgow!
+1st May 2018 - [Ladies of Code: Open Mic Night](https://www.meetup.com/Ladies-of-Code-Glasgow/events/249383347/).
 
-[Sign up here!](https://www.meetup.com/Ladies-of-Code-Glasgow/events/244961346)
+## Upcoming meetups
+
+
