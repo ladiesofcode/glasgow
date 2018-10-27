@@ -2,7 +2,7 @@
 
 # Ladies of Code Glasgow
 
-Ladies of Code Glasgow is organised by [Carole](https://twitter.com/crgrieve) and [Angie](https://twitter.com/lalamaguire).
+Ladies of Code Glasgow is organised by [Carole](https://twitter.com/crgrieve), [Angie](https://twitter.com/lalamaguire) and [Fiona](https://twitter.com/fieheath).
 
 **To find out when and where our next meetup is, please take a look at [our page on meetup.com](http://www.meetup.com/Ladies-of-Code-Glasgow)**.
 
