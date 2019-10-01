@@ -3,6 +3,7 @@
 ## Attendees
 
 * Carole Rennie Logan (@crgrieve)
+* Fiona Heath (@fieheath)
 * Diane-Eugenie Jonker (@DianeEugenie)
 * Mhairi McCrindle (@uncageddesign)
 * Gillian Shanks (@gillianshanks)
