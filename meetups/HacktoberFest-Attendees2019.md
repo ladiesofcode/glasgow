@@ -4,4 +4,10 @@
 
 * Carole Rennie Logan (@crgrieve)
 * Fiona Heath (@fieheath)
+* Diane-Eugenie Jonker (@DianeEugenie)
+* Mhairi McCrindle (@uncageddesign)
+* Gillian Shanks (@gillianshanks)
+* Georgia Constantinou (@georgcon)
+* Etzali Hernández
+* Thomas Glew (t.glew@hotmail.co.uk)
 ... add your name here.
