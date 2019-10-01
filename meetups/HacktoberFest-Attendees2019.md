@@ -10,4 +10,6 @@
 * Georgia Constantinou (@georgcon)
 * Etzali Hernández
 * Thomas Glew (t.glew@hotmail.co.uk)
+* Debbie Urquhart (@Debbiecodes)
+* Jamie Hammond (@developerontour)
 ... add your name here.
