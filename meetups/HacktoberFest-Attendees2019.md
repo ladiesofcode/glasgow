@@ -3,4 +3,5 @@
 ## Attendees
 
 * Carole Rennie Logan (@crgrieve)
+* Fiona Heath (@fieheath)
 ... add your name here.
