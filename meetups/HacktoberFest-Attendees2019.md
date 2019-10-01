@@ -18,3 +18,5 @@
 * Julia Rosner
 * Rosa Downing
 * Nada Kartouch
+* Khyati Kothari (@khyatikot)
+... add your name here.
