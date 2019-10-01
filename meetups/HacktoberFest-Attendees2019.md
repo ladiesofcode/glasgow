@@ -3,4 +3,5 @@
 ## Attendees
 
 * Carole Rennie Logan (@crgrieve)
+* Gillian Shanks (@gillianshanks)
 ... add your name here.
