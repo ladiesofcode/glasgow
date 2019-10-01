@@ -19,4 +19,5 @@
 * Rosa Downing
 * Nada Kartouch
 * Khyati Kothari (@khyatikot)
+* Ashley Nicolson (@samus-aran)
 ... add your name here.
