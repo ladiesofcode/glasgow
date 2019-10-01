@@ -3,4 +3,5 @@
 ## Attendees
 
 * Carole Rennie Logan (@crgrieve)
-... add your name here.
+* Julia Rosner
+* Rosa Downing
