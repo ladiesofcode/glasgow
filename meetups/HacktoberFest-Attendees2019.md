@@ -3,4 +3,5 @@
 ## Attendees
 
 * Carole Rennie Logan (@crgrieve)
+* Mhairi McCrindle (@uncageddesign)
 ... add your name here.
