@@ -6,4 +6,3 @@
 
 * Debbie Urquhart (@Debbiecodes)
 * Jamie Hammond (@developerontour)
-... add your name here.
