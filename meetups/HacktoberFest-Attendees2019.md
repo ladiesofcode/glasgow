@@ -3,4 +3,4 @@
 ## Attendees
 
 * Carole Rennie Logan (@crgrieve)
-... add your name here.
+* Nada Kartouch
