@@ -4,3 +4,4 @@
 
 * Carole Rennie Logan (@crgrieve)
 ... add your name here.
+Anna-Sofia Myszka-Gustafsson (AnnaSofiaMG)
