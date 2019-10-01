@@ -4,4 +4,5 @@
 
 * Carole Rennie Logan (@crgrieve)
 * Georgia Constantinou (@georgcon)
+* Etzali Hernández
 ... add your name here.
