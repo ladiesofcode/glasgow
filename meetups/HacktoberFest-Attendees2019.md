@@ -3,4 +3,5 @@
 ## Attendees
 
 * Carole Rennie Logan (@crgrieve)
+* Georgia Constantinou (@georgcon)
 ... add your name here.
