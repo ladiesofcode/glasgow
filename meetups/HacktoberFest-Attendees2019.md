@@ -3,4 +3,7 @@
 ## Attendees
 
 * Carole Rennie Logan (@crgrieve)
+
+* Debbie Urquhart (@Debbiecodes)
+* Jamie Hammond (@developerontour)
 ... add your name here.
