@@ -15,3 +15,5 @@
 * Kelsie Braidwood (@ionab)
 * Anna-Sofia Myszka-Gustafsson (AnnaSofiaMG)
 * Heather
+* Julia Rosner
+* Rosa Downing
