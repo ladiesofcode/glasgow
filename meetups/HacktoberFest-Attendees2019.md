@@ -3,4 +3,5 @@
 ## Attendees
 
 * Carole Rennie Logan (@crgrieve)
+* Diane-Eugenie Jonker (@DianeEugenie)
 ... add your name here.
