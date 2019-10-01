@@ -137,6 +137,15 @@ With the huge increase of OS activity this month there may be cases where unsoli
 
 But we are all here to help so if you feel affected then feel free to reach out to us members within the Ladies of Code Glasgow!
 
+### We love to hear from you! ###
+
+In fact this guide was part of my HacktoberFest2019 contribution,so we can't wait to see yours! ❤️
+
+![Screenshot_2019-10-01 Hacktoberfest presented by DigitalOcean and DEV](https://user-images.githubusercontent.com/4041275/65956013-eef75980-e438-11e9-83c2-1ac1edef0853.png)
+
+
+
+
 
 
 
